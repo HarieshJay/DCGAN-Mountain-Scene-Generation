@@ -1,2 +1,0 @@
-model_checkpoint_path: "1000_epochs"
-all_model_checkpoint_paths: "1000_epochs"
